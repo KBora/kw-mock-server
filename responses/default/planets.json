@@ -1,0 +1,19 @@
+[
+  {
+    "name": "mars",
+    "position": 2,
+    "moons": [
+      { "id": 1 }, { "id": 2 }
+    ]
+  },
+  {
+    "name": "saturn",
+    "position": 6,
+    "moons": [{ "id": 3 }, { "id": 4 }]
+  },
+  {
+    "name": "jupiter",
+    "position": 5,
+    "moons": [{ "id": 5 }, { "id": 6 }]
+  }
+]
